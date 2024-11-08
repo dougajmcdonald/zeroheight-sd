@@ -1,0 +1,22 @@
+{
+  "colours": {
+    "blue": {
+      "$type": "color",
+      "$value": "#1fb6ff"
+    },
+    "pink": {
+      "$type": "color",
+      "$value": "#ff49db"
+    },
+    "purple": {
+      "$type": "color",
+      "$value": "#7e5bef"
+    }
+  },
+  "fontFamily": {
+    "sans": {
+      "$type": "string",
+      "$value": "['Graphik', 'sans-serif']"
+    }
+  }
+}
