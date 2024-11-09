@@ -1,5 +1,14 @@
 {
+  "type": "module",
   "devDependencies": {
     "style-dictionary": "^4.1.4"
+  },
+  "scripts": {
+    "start": "npm run clean && npm run build",
+    "build": "node ./build2.js --verbose",
+    "clean": "rm -rf build"
+  },
+  "dependencies": {
+    "sd-tailwindcss-transformer": "^2.0.0"
   }
 }
