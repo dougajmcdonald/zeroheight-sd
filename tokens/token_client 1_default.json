@@ -1,0 +1,8 @@
+{
+  "colours": {
+    "primary": {
+      "$type": "color",
+      "$value": "{colours.blue}"
+    }
+  }
+}
