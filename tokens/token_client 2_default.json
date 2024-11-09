@@ -1,10 +1,12 @@
 {
-  "blue": {
-    "$type": "color",
-    "$value": "#464be5"
-  },
-  "primary": {
-    "$type": "color",
-    "$value": "{colours.pink}"
+  "colours": {
+    "blue": {
+      "$type": "color",
+      "$value": "#464be5"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{colours.pink}"
+    }
   }
 }
